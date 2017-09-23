@@ -1,4 +1,4 @@
-# Remote Pairing package
+﻿# Remote Pairing package
 
 [![Build Status](https://travis-ci.org/motepair/motepair.svg?branch=master)](https://travis-ci.org/motepair/motepair) [![Join the chat at https://gitter.im/motepair/motepair](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/motepair/motepair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -56,9 +56,8 @@ Please, if you see any bug, don't hesitate and open a Issue, we need your help t
 Check out the [server repository](https://github.com/motepair/motepair-server)
 
 ## Contributors
-
-* [Leon Maia](http://github.com/leonmaia) ([@leonmaia](https://twitter.com/leonmaia))
-* [Luiz Filho](http://github.com/luizbafilho) ([@luizbafilho](http://twitter.com/luizbafilho))
+###############
+###############
 
 ## License
 
